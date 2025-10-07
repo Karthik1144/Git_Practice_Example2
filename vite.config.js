@@ -6,3 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/s207/'
 });
+export default {
+  base: '/Git_Practice_Example2/',
+}
